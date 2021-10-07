@@ -1,0 +1,14 @@
+01:14:33
+//:time
+02:lightly
+//:weathercondition
+03:raining
+//:weathertype
+04:Sovernetsky
+//:closestplace
+05:1.2
+//:closestdistance
+06:5.6
+//:distancetotal
+07:1.89
+//temperature
