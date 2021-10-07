@@ -1,0 +1,34 @@
+//DatabaseV0.4
+
+//Food/Drinks
+waterbottle12oz: A 12oz water bottle.
+meatrationukrainebought: A meat ration, based on the Ukrainian military ration. About 450 kcal per ration.
+kielbosa: A link of kielbosa sausage. About 5 slices, 100 kcal each slice.
+pastarationukrainebought: A pasta ration, from a Ukrainian military-surplus store. About 600 kcal per ration.
+mrespaghettiunitedbought: A full spaghetti MRE meal kit, bought from a U.S. miltary surplus store. About 1050 kcal per ration.
+vodka6ozukraine: A tiny 6oz bottle of vodka, of Ukrainian origin.
+
+//Pants
+pantscamothermal: A pair of camo thermal pants.
+leggingscamothermal: A pair of camo thermal leggings.
+
+//Shoes
+leatherboots: A pair of sturdy leather boots.
+
+//Coats
+overcoatblackthermal: A black thermal overcoat
+
+//Knives
+swissarmyknife: A swiss army knife. What else did you expect?
+
+//Guns
+glock17: A Glock 17 handgun
+ak47: A Kalishnikov 47, also called the AK-47 assault rifle, an easy to produce, yet powerful assault rifle.
+
+//Devices
+dosimeternovice: A radiation dosimeter made cheap and easy to use. This one will start beeping if it reaches over 30 microsieverts of radiation.
+dosimeternovicehacked: A radiation dosimeter made cheap and easy to use. This one would've started beeping at over 30 microsieverts of radiation, but someone helpfully used some electrical engineering skills to bypass the limiter.
+
+//Debug
+testobject: test object
+null: Empty
